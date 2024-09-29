@@ -1,0 +1,283 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ambt" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="dev_ambt@dev-ambt.ctiiqsg6kiir.us-east-2.rds.amazonaws.com: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="dev_ambt@dev-ambt.ctiiqsg6kiir.us-east-2.rds.amazonaws.com: DSN" type="27e358d6:DataSourceNode" />
+        <item name="Family of 3 database (host: root #ROOT)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="dev_ambt@dev-ambt.ctiiqsg6kiir.us-east-2.rds.amazonaws.com: DSN" type="27e358d6:DataSourceNode" />
+        <item name="Family of 3 database (host: root #ROOT)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+        <item name="dev_ambt: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="dev_ambt@dev-ambt.ctiiqsg6kiir.us-east-2.rds.amazonaws.com: DSN" type="27e358d6:DataSourceNode" />
+        <item name="Family of 3 database (host: root #ROOT)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+        <item name="dev_ambt: database" type="162271b6:PgImplModel$Database" />
+        <item name="Family of 3 schema (host: database dev_ambt)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="dev_ambt@dev-ambt.ctiiqsg6kiir.us-east-2.rds.amazonaws.com: DSN" type="27e358d6:DataSourceNode" />
+        <item name="Family of 3 database (host: root #ROOT)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+        <item name="dev_ambt: database" type="162271b6:PgImplModel$Database" />
+        <item name="Family of 3 schema (host: database dev_ambt)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="dev_ambt@dev-ambt.ctiiqsg6kiir.us-east-2.rds.amazonaws.com: DSN" type="27e358d6:DataSourceNode" />
+        <item name="Family of 3 database (host: root #ROOT)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+        <item name="dev_ambt: database" type="162271b6:PgImplModel$Database" />
+        <item name="Family of 3 schema (host: database dev_ambt)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="Family of 45 table (host: schema public)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseViewOptions">
+    <option name="autoScrollingFromSources" value="false" />
+    <option name="groupAuxObjects" value="true" />
+    <option name="groupDataSources" value="true" />
+    <option name="groupNamespaces" value="true" />
+    <option name="groupObjectElements" value="true" />
+    <option name="groupSchemaObjects" value="true" />
+    <option name="hiddenKinds">
+      <set />
+    </option>
+    <option name="separateRoutines" value="false" />
+    <option name="showAllNamespaces" value="false" />
+    <option name="showEmptyGroups" value="false" />
+    <option name="showGeneratedObjects" value="true" />
+    <option name="showIntermediate" value="true" />
+    <option name="showVirtualObjects" value="true" />
+    <option name="sortAlphabetically" value="true" />
+    <option name="unnestTableSubObjects" value="false" />
+    <option name="withCommentsNotDetails" value="false" />
+    <option name="withDetailLevels" value="false" />
+    <option name="withIntrospectionLevels" value="false" />
+    <option name="withIntrospectionTime" value="false" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_NAMESPACES" value="true" />
+    <option name="GROUP_AUX_OBJECTS" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="true" />
+    <option name="SHOW_ALL_NAMESPACES" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="SHOW_GENERATED_OBJECTS" value="true" />
+    <option name="SHOW_VIRTUAL_OBJECTS" value="true" />
+    <option name="SEPARATE_ROUTINES" value="false" />
+    <option name="UNNEST_TABLE_SUBOBJECTS" value="false" />
+    <option name="SORT_POSITIONED" value="true" />
+    <option name="WITH_COMMENTS_NOT_DETAILS" value="false" />
+    <option name="WITH_INTROSPECTION_TIME" value="false" />
+    <option name="WITH_INTROSPECTION_LEVELS" value="false" />
+    <option name="WITH_DETAIL_LEVELS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="FILTER_STICKY_STATE" value="false" />
+  </component>
+  <component name="DjangoStructureTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="hjcuojna4xvl" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;SQL&quot;: {
+      &quot;usageCount&quot;: 6,
+      &quot;lastUsed&quot;: 1720027514615
+    },
+    &quot;Python&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1718889321509
+    },
+    &quot;UML&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1718890110391
+    },
+    &quot;Database Element&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1720029462708
+    }
+  }
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="1" lastUsage="1718889321511" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="6" lastUsage="1720027514618" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ambt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/som/PycharmProjects/ambt}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10580000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1653646" />
+      <window_info id="Commit" order="1" weight="0.1653646" />
+      <window_info id="Django.Structure" order="2" side_tool="true" weight="0.16551173" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3283654" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.2408854" />
+      <window_info anchor="right" id="Database" order="2" weight="0.21988273" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.3283654" left="0.1653646" right="0.21988273" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16551173" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Django.Structure" order="2" side_tool="true" visible="true" weight="0.16551173" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3296332" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.2408854" />
+      <window_info anchor="right" id="Database" order="2" weight="0.21988273" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.3296332" left="0.16551173" right="0.21988273" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Commit</value>
+      <value>Django.Structure</value>
+      <value>Database</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1032" y="199" width="803" height="681" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1720027511745">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1032" y="192" width="803" height="681" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1718997074251" />
+    <state x="1032" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1720027511745" />
+    <state width="254" height="199" key="DatabaseViewActions_Filter" timestamp="1718890194640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="254" height="199" key="DatabaseViewActions_Filter/0.0.1920.1040@0.0.1920.1040" timestamp="1718890194640" />
+    <state x="560" y="140" width="800" height="800" key="DbImportDialog" timestamp="1720029506068">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="140" width="800" height="800" key="DbImportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1720029506068" />
+    <state x="560" y="120" width="800" height="800" key="DbModifyObjectDialog" timestamp="1718889801495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="120" width="800" height="800" key="DbModifyObjectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1718889801495" />
+    <state x="785" y="0" key="com.intellij.database.actions.DbDeleteProvider$2" timestamp="1720029572348">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="785" y="0" key="com.intellij.database.actions.DbDeleteProvider$2/0.0.1920.1080@0.0.1920.1080" timestamp="1720029572348" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e2919357-3d1d-44de-8648-c1ed3085956a/console.sql" />
+    <entry file="file://$PROJECT_DIR$/ambt/settings.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://e2919357-3d1d-44de-8648-c1ed3085956a/tablespace/rds_temp_tablespace.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e2919357-3d1d-44de-8648-c1ed3085956a/tablespace/pg_global.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e2919357-3d1d-44de-8648-c1ed3085956a/tablespace/pg_default.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/e2919357-3d1d-44de-8648-c1ed3085956a.DATABASE:postgres">
+      <provider selected="true" editor-type-id="UmlEditorProvider" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/fc461b68-b1ee-48eb-98ad-da79f1a97371/console.sql" />
+    <entry file="das://fc461b68-b1ee-48eb-98ad-da79f1a97371/database/dev_ambt/schema/public/table/reports_acppayout">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1720029460497" presentationMode="TABLE" projectRestartId="362a7aab-f9f7-4849-9574-c99db68c0b32" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

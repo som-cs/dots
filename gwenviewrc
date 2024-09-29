@@ -1,0 +1,25 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=/run/media/som/UDISK/DCIM/100MEDIA/ANMP0000.jpg
+File2[$e]=/run/media/som/UDISK/DCIM/100MEDIA/ANMP0001.jpg
+File3[$e]=/run/media/som/som hdd/Back Up/forever forbidden/4-up on 28-08-19 at 5.44 PM (compiled).jpg
+File4[$e]=camera:/Apple%2520iPhone%25205%2520(PTP%2520mode)@usb:003,006/store_00010001/201808__/IMG_0191.JPG
+File5[$e]=camera:/Apple%2520iPhone%25205%2520(PTP%2520mode)@usb:003,006/store_00010001/202407__/CHQS1322.JPG
+File6[$e]=camera:/Apple%2520iPhone%25205%2520(PTP%2520mode)@usb:003,006/store_00010001/202406__/EWQM7613.JPG
+File7[$e]=$HOME/Pictures/202407__/IMG_3863.JPG
+Name1[$e]=ANMP0000.jpg
+Name2[$e]=ANMP0001.jpg
+Name3[$e]=4-up on 28-08-19 at 5.44 PM (compiled).jpg
+Name4[$e]=IMG_0191.JPG
+Name5[$e]=CHQS1322.JPG
+Name6[$e]=EWQM7613.JPG
+Name7[$e]=IMG_3863.JPG
+
+[SideBar]
+InformationSplitterSizes=211,244

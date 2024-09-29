@@ -1,0 +1,11 @@
+[Added Associations]
+text/csv=org.gnome.TextEditor.desktop;
+application/pdf=io.elementary.code.desktop;nvim.desktop;org.gnome.Zenity.desktop;firefox-developer-edition.desktop;org.gnome.Evince.desktop;
+video/x-matroska=vlc.desktop;
+text/x-python=io.elementary.code.desktop;
+video/mp4=vlc.desktop;
+
+[Default Applications]
+text/csv=org.gnome.TextEditor.desktop;
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+application/pdf=org.gnome.Evince.desktop

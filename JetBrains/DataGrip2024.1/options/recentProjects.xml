@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/DataGripProjects/AMBT">
+          <value>
+            <RecentProjectMetaInfo frameTitle="AMBT" opened="true" projectWorkspaceId="2jwdtiQbHlVbuDYYFSFUDqbSzA1">
+              <option name="activationTimestamp" value="1722302543981" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="DB-241.17890.24" />
+              <option name="buildTimestamp" value="1717774020000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="1284" y="50" width="630" height="1024" extendedState="6" />
+              <option name="productionCode" value="DB" />
+              <option name="projectOpenTimestamp" value="1722302291678" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/DataGripProjects/AMBT" />
+  </component>
+</application>

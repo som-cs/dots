@@ -1,0 +1,37 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="DatabaseView.AddActionGroupPopup">
+      <i c="1" l="1722302319686" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="3" l="1722302372286" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1722302381004" />
+    </e>
+    <e n="WelcomeScreen.CreateDirectoryProject">
+      <i c="1" l="1722302284759" />
+    </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$3">
+      <i c="2" l="1722302368282" />
+    </e>
+    <e n="com.intellij.database.view.ui.DataSourcesSideTab$AddAction">
+      <i c="1" l="1722302366567" />
+    </e>
+    <e n="com.intellij.database.view.ui.DatabaseConfigSideTab$RemoveAction">
+      <i c="1" l="1722302365518" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.SkipImportAction">
+      <i c="1" l="1722302273156" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1722302296289" />
+    </e>
+    <e n="com.intellij.toolWindow.StripeActionGroup$MyButtonAction">
+      <i c="1" l="1722302318117" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1722302295247" />
+    </e>
+  </component>
+</application>
